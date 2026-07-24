@@ -18,7 +18,7 @@ public class Reverse_String {
 		return new String(arr);
 	}
 	public static void main(String[]args) {
-		String str = "Disha_GrandDaughter_of_Panduranga";
+		String str = "agnarudnaP_fo_rethguaDdnarG_ahsiD";
 		System.out.println(reverse(str));
 		
 	}
