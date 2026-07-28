@@ -8,7 +8,7 @@ public class Stock {
 		for(int price:prices) {
 			if(price<minPrice) {
 				minPrice = price;
-			}else {
+			}else { 
 				maxProfit = Math.max(maxProfit, price-minPrice);
 			}
 			
