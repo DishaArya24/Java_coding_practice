@@ -23,6 +23,7 @@ public class Missing_number {
 	    public static void main(String[] args) {
 
 	        Missing_number obj = new Missing_number();
+	        System.out.println("Heyyy");
 
 	        int[] nums = {3,0,1};
 
