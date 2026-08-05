@@ -18,6 +18,7 @@ public class Moving_zeros {
 			
 		}
 		System.out.println(Arrays.toString(result));
+		System.out.println("Thankss");
 	}
 
 }
