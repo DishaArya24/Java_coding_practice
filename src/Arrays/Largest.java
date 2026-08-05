@@ -24,6 +24,7 @@ public class Largest {
 		}
 		
 		System.out.println("The largest Number in the given array is " + largest);
+		System.out.println("thank you");
 		sc.close();
 	}
 
